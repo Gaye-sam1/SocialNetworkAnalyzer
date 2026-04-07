@@ -1,6 +1,12 @@
 # 🔗 SocialNetworkAnalyzer
 
-A graph-based social network analysis tool built in Java, developed as a Discrete Mathematics & Structures project at **Marwadi University**. The application models social networks as graphs and applies a range of classical and advanced graph algorithms to analyze their structure, connectivity, and influence patterns — all through an interactive Java Swing GUI.
+A graph-based social network analysis tool built in Java, developed as a Discrete Mathematical Structures project at **Marwadi University**.
+
+## 📖 Description
+
+SocialNetworkAnalyzer models real-world social networks as mathematical graphs, where users are represented as **nodes** and their connections as **edges**. The project was built in six progressive phases, each introducing a new layer of graph theory and algorithm design, starting from basic graph structures all the way to an interactive visual interface.
+
+The goal is to demonstrate how graph algorithms can be applied to analyze social relationships, identifying the most connected individuals, finding the shortest path between two people, and detecting communities or clusters within a network. The project also served as the foundation for an ongoing research paper applying these same techniques to **Liberia's inter-county road network**.
 
 ---
 
@@ -87,8 +93,8 @@ This project also inspired an ongoing research paper applying graph algorithms t
 
 ## 👤 Author
 
-**Samuel B. Gaye**  
-CSE-AI Student | Marwadi University  
+**Samuel B. Gaye**
+CSE-AI Student | Marwadi University
 GitHub: [@Gaye-sam1](https://github.com/Gaye-sam1)
 
 ---
